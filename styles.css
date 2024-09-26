@@ -1,0 +1,28 @@
+body {
+    background-color: #e0f7fa; /* Light blue background */
+    color: #00695c; /* Dark teal text */
+}
+
+h1 {
+    color: #004d40; /* Darker teal for the title */
+    font-weight: bold;
+}
+
+.table-header {
+    background-color: #004d40; /* Dark teal for the header */
+    color: white;
+}
+
+.table {
+    border-color: #00695c; /* Border color matching the theme */
+}
+
+.logo {
+    max-width: 100px; /* Adjusted size for the logo */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #004d40; /* Dark teal border */
+}

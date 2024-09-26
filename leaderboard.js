@@ -1,6 +1,6 @@
 async function fetchData() {
     const sheetId = '1u89p77VcMmxkEvmGsgEccq5nyOcyiw0Ux117v4537-I'; // Replace with your actual Sheet ID
-    const apiKey = SHEETS_API_KEY;   // Replace with your actual API Key
+    const apiKey = 'AIzaSyBIm1xMy_cxwQKJzVz6szigCiTNY9d63Oc';   // Replace with your actual API Key
     const range = 'Form Responses 1!A:Z';      // Adjust range as needed
 
     try {
